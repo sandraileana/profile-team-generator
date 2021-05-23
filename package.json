@@ -1,0 +1,29 @@
+{
+  "name": "profile-team-generator",
+  "version": "1.0.0",
+  "description": "profile team generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandraileana/profile-team-generator.git"
+  },
+  "keywords": [
+    "PTG"
+  ],
+  "author": "Sandra Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandraileana/profile-team-generator/issues"
+  },
+  "homepage": "https://github.com/sandraileana/profile-team-generator#readme",
+  "dependencies": {
+    "index": "^0.4.0"
+  }
+}
